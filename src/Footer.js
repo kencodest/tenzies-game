@@ -6,7 +6,7 @@ function Footer(){
 
     return (
         <div className="footer">
-            <p>&copy; {year} All Rights Reserved | <a href="https://github.com/kencodest/password-generator" target="_blank">kencodest</a></p>
+            <p>&copy; {year} All Rights Reserved | <a href="https://github.com/kencodest/password-generator" target="_blank" rel="noferrer noopener">kencodest</a></p>
         </div>
     )
 }
